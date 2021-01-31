@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410747211661",
+    "project_id": "assignment-planner-ac037",
+    "storage_bucket": "assignment-planner-ac037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410747211661:android:d01c753eb2b08d0c60f7c4",
+        "android_client_info": {
+          "package_name": "com.example.assignmentplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410747211661-qu7h41o3r659ocv4gdct5u5v3v7ejv44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignmentplanner",
+            "certificate_hash": "ba6cdd2d78f97c5efbae97d1bb4d5a55ad67a1d1"
+          }
+        },
+        {
+          "client_id": "410747211661-hr52so9v6d8bj9rcrme0q7499kr3brjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJS8sCIL95qTM1RkjzJYogZzamBy1G2GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410747211661-hr52so9v6d8bj9rcrme0q7499kr3brjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
